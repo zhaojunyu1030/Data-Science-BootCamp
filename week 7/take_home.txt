@@ -1,0 +1,33 @@
+1.⁠ ⁠How do you assess the statistical significance of an insight?
+    - formulate a Null Hypothesis (H0)
+    - formulate an Alternative Hypothesis (H1)
+    - choose a Significance Level (alpha)
+    - select and perform the Appropriate Statistical Test
+    - compute the p-value
+    - compare the p-value and alpha
+    - make decision
+    - conclusion
+    
+2.⁠ ⁠What is the Central Limit Theorem? Explain it. Why is it important?
+    If sampling randomly and independently, the sample means distribute normally as the sample size increases, regardless of how the underlying population is distributed
+    It allows us to use normal distribution techniques even if the original data is not normal.
+
+3.⁠ ⁠What is the statistical power?
+    The probability that a statistical test will correctly reject a false null hypothesis.
+    p < 0.05
+
+4.⁠ ⁠How do you control for biases?
+    - randomization
+    - blinding
+    - control groups
+    -sampling carefully
+
+5.⁠ ⁠What are confounding variables?
+    A third variable that influences both the independent variable and the dependent variable, creating a false association between them.
+
+6.⁠ ⁠What is A/B testing?
+    An experimental method where you compare two versions (A and B) of something to see which one performs better according to a chosen metric.
+    Control group & treatment group
+
+7.⁠ ⁠What are confidence intervals?
+    A range of values that is likely to contain the true population parameter with a certain level of confidence.
